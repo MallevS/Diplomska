@@ -1,0 +1,2 @@
+# Diplomska
+AI Trip Planner
